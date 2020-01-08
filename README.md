@@ -14,7 +14,7 @@ This mod adds waypoints to items for collectible achievements/trophies. The mod 
 	- Water Works (Safe House Nightmare, Overkill)
 
 ### 2014
-- Gage Mod Courier packages: (only available on Jewelry Store for balance)
+- Gage Mod Courier packages:
 	- Praying Mantis (Green Mantis)
 	- Bullseye (Yellow Bull)
 	- My Spider Sense is Tingling (Red Spider)
